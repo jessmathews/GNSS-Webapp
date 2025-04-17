@@ -23,6 +23,7 @@ export default function Home() {
   };
 
   const handleDownload = async () => {
+    alert("Download functionality under implementation");
     const res = await requestDownload(selectedRegion, filters);
     window.open(res.data.downloadUrl, "_blank");
   };
