@@ -8,6 +8,8 @@ A webapp to download GNSS data by selecting region which shows all the GNSS site
 # To-Do
 - [x] Display a map of the world
 - [x] User can select a region in the map; the list of GNSS sites should be revealed
+- [x] Resizable Selection Option
+- [x] Individual and multiple download options
 - [ ] User would then be able to download a data by choosing specific filters
 - [ ] Add more GNSS constellations (GPS, Galileo, others)
   Based on user’s selection,
